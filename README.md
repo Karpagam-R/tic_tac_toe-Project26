@@ -3,7 +3,9 @@ Tic_Tac_Toe uploaded using Git commands
 
 Git commands used in this project
 
-git init - To initialize empty git repository
+To initialize empty git repository
+
+    git init 
 
 To add all the files to the stagging area
 
@@ -20,8 +22,10 @@ To add commit message
 To add files to remote
 
     git remote add remote_name remote_link
+    
+To push the files to remote
 
-git push –u remote_name - To push the files to remote
+    git push –u remote_name 
 
 Note: Remote name here can be any name given to the remote by the users
 
