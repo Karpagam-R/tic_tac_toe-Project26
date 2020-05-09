@@ -43,11 +43,11 @@ Git commands used in this project
 
     git add style.css
     
-            or
+           ( or )
          
     git add *
     
- (* adds all the files present)
+ (* adds all the files present to the stagging area. * means select all)
     
 To add commit message
 
@@ -63,6 +63,7 @@ To add files to remote
     git remote add remote_name remote_link
     
  (Remote name here can be any name given to the remote by the users)
+ (Remote link is the lin of the empty repository created)
 
 To push the files to remote
 
